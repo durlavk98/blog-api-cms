@@ -1,0 +1,50 @@
+.postTitle {
+  font-size: 2rem;
+  margin-bottom: .1rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  letter-spacing: .05rem;
+  text-transform: uppercase;
+  color: black;
+}
+
+.postDetails {
+  font-size: 1rem;
+  color: #999;
+  opacity: .7;
+  font-weight: 200;
+  margin-bottom: .1rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.postBody {
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.commentBody {
+  max-width:70vw;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  margin: 20px 10px;
+  padding: 10px;
+}
+
+.commentHead {
+  text-transform: uppercase;
+  padding-top: 20px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+}
+
+.createCommentHead {
+  text-transform: uppercase;
+  padding-top: 20px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+}
